@@ -15,22 +15,22 @@ This isn't an official source of information, but rather a playground. For offic
 `Documentation`_       `Performance`_       `API`_
 ==================  ==================  ==================
 
-.. |About| image:: ../_static/optiga_trust_x_gitrepo_tile_1.png 
+.. |About| image:: _static/optiga_trust_x_gitrepo_tile_1.png 
 .. _About: get-started/index.html
 
-.. |Examples| image:: ../_static/optiga_trust_x_gitrepo_tile_2.png
+.. |Examples| image:: _static/optiga_trust_x_gitrepo_tile_2.png
 .. _Examples: api-reference/index.html
 
-.. |Get Started| image:: ../_static/optiga_trust_x_gitrepo_tile_3.png
+.. |Get Started| image:: _static/optiga_trust_x_gitrepo_tile_3.png
 .. _Get Started: hw-reference/index.html
 
-.. |Documentation| image:: ../_static/optiga_trust_x_gitrepo_tile_4.png
+.. |Documentation| image:: _static/optiga_trust_x_gitrepo_tile_4.png
 .. _Documentation: api-guides/index.html
 
-.. |Performance| image:: ../_static/optiga_trust_x_gitrepo_tile_5.png
+.. |Performance| image:: _static/optiga_trust_x_gitrepo_tile_5.png
 .. _Performance: contribute/index.html
 
-.. |API| image:: ../_static/optiga_trust_x_gitrepo_tile_6.png
+.. |API| image:: _static/optiga_trust_x_gitrepo_tile_6.png
 .. _API: resources.html
 
 
