@@ -1,4 +1,4 @@
-OPTIGA&trade; embedded security solutions
+OPTIGA™ embedded security solutions
 =========================
 
 This is the documentation for OPTIGA&trade; embedded `security solutions <https://www.infineon.com/cms/en/product/security-smart-card-solutions/optiga-embedded-security-solutions/>`_.
@@ -8,7 +8,7 @@ This isn't an official source of information, but rather a playground. For offic
 ==================  ==================  ==================
 |About|_            |Examples|_         |Get Started|_
 ------------------  ------------------  ------------------
-`About`_      `Examples`_    `Get Started`_
+`About`_             `Examples`_        `Get Started`_
 ------------------  ------------------  ------------------
 |Documentation|_    |Performance|_       |API|_
 ------------------  ------------------  ------------------
