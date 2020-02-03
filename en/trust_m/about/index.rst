@@ -10,7 +10,7 @@ Description
     :alt: USON10 package for Trust M rev.1
     :figclass: align-center
 
-This repository contains a target-agnostic Software Framework for the [OPTIGA™ Trust M](https://www.infineon.com/optiga-trust) security chip. It is a base for other application notes.
+This repository contains a target-agnostic Software Framework for the `OPTIGA™ Trust M <https://www.infineon.com/optiga-trust>`_ security chip. It is a base for other application notes.
 
 Summary
 -----------------
