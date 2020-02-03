@@ -3,7 +3,7 @@ OPTIGA™ embedded security solutions
 
 This is the documentation for OPTIGA™ embedded `security solutions <https://www.infineon.com/cms/en/product/security-smart-card-solutions/optiga-embedded-security-solutions/>`_.
 
-This isn't an official source of information, but rather a playground. For official documetnation please refer to the respective product pages.
+This **isn't** an official source of information, but rather a playground. For official documetnation please refer to the respective product pages.
 
 * **OPTIGA™ solutions overview**
 
