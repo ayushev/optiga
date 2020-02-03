@@ -25,7 +25,7 @@ This isn't an official source of information, but rather a playground. For offic
     * `Crypt API <en/trust_m/crypt_api.rst>`_
     * `Util API <en/trust_m/util_api.rst>`_
 
-* **OPTIGA™ TPM**
+  * **OPTIGA™ TPM**
     
     * `About <en/tpm/about/index.rst>`_
     
