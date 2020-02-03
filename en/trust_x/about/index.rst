@@ -4,7 +4,7 @@ Security Chip
 Description
 -----------------
 
-.. figure:: ../../_static/optiga-trust-x-uson10.png 
+.. figure:: ../../../_static/optiga-trust-x-uson10.png 
     :align: center
     :alt: USON10 package for Trust X
     :figclass: align-center
