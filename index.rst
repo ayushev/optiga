@@ -27,7 +27,7 @@ This isn't an official source of information, but rather a playground. For offic
 
 * **OPTIGA™ TPM**
     
-    * `About <en/tpm/about/indexrst>`_
+    * `About <en/tpm/about/index.rst>`_
     
 .. toctree::
    :hidden:
