@@ -5,33 +5,27 @@ This is the documentation for OPTIGA™ embedded `security solutions <https://ww
 
 This isn't an official source of information, but rather a playground. For official documetnation please refer to the respective product pages.
 
-==================  ==================  ==================
-|About|_            |Examples|_         |Get Started|_
-------------------  ------------------  ------------------
-`About`_             `Examples`_        `Get Started`_
-------------------  ------------------  ------------------
-|Documentation|_    |Performance|_       |API|_
-------------------  ------------------  ------------------
-`Documentation`_       `Performance`_       `API`_
-==================  ==================  ==================
+* **OPTIGA™ solutions overview**
 
-.. |About| image:: _static/optiga_trust_x_gitrepo_tile_1.png 
-.. _About: get-started/index.html
+  * **OPTIGA™ Trust X**
+  
+    * `About <trust_x/about.rst>`_
+    * `Get Started <trust_x/get_started.rst>`_
+    * `Examples <trust_x/examples.rst>`_
+    * `Documentation (PDF) <trust_x/documentation_pdf.rst>`_
+    * `Crypt API <trust_x/crypt_api.rst>`_
+    * `Util API <trust_x/util_api.rst>`_
+  
+  * **OPTIGA™ Trust M rev.1**
+    
+    * `About <trust_m/about.rst>`_
+    * `Get Started <trust_m/get_started.rst>`_
+    * `Examples <trust_m/examples.rst>`_
+    * `Documentation (PDF) <trust_m/documentation_pdf.rst>`_
+    * `Crypt API <trust_m/crypt_api.rst>`_
+    * `Util API <trust_m/util_api.rst>`_
 
-.. |Examples| image:: _static/optiga_trust_x_gitrepo_tile_2.png
-.. _Examples: api-reference/index.html
-
-.. |Get Started| image:: _static/optiga_trust_x_gitrepo_tile_3.png
-.. _Get Started: hw-reference/index.html
-
-.. |Documentation| image:: _static/optiga_trust_x_gitrepo_tile_4.png
-.. _Documentation: api-guides/index.html
-
-.. |Performance| image:: _static/optiga_trust_x_gitrepo_tile_5.png
-.. _Performance: contribute/index.html
-
-.. |API| image:: _static/optiga_trust_x_gitrepo_tile_6.png
-.. _API: resources.html
+* **OPTIGA™ TPM**
 
 
 
