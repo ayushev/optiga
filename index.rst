@@ -18,7 +18,7 @@ This isn't an official source of information, but rather a playground. For offic
   
   * **OPTIGA™ Trust M rev.1**
     
-    * `About <en/trust_m/about/indexrst>`_
+    * `About <en/trust_m/about/index.html>`_
     * `Get Started <en/trust_m/get_started.rst>`_
     * `Examples <en/trust_m/examples.rst>`_
     * `Documentation (PDF) <en/trust_m/documentation_pdf.rst>`_
@@ -27,7 +27,7 @@ This isn't an official source of information, but rather a playground. For offic
 
   * **OPTIGA™ TPM**
     
-    * `About <en/tpm/about/index.rst>`_
+    * `About <en/tpm/about/index.html>`_
     
 .. toctree::
    :hidden:
