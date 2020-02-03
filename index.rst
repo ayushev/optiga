@@ -9,7 +9,7 @@ This isn't an official source of information, but rather a playground. For offic
 
   * **OPTIGA™ Trust X**
   
-    * `About <trust_x/about.rst>`_
+    * `About <trust_x/about/index.html>`_
     * `Get Started <trust_x/get_started.rst>`_
     * `Examples <trust_x/examples.rst>`_
     * `Documentation (PDF) <trust_x/documentation_pdf.rst>`_
