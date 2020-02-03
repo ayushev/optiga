@@ -27,7 +27,18 @@ This isn't an official source of information, but rather a playground. For offic
 
 * **OPTIGA™ TPM**
 
+.. toctree::
+   :hidden:
 
+   Selection Guide <en/selection_guide/index>
+   OPTIGA™ Trust X <en/trust_x/about/index>
+   OPTIGA™ Trust M rev.1 <en/trust_m/about/index>
+   OPTIGA™ TPM <en/tpm/about/index>
+   Contribute <contribute/index>
+   Copyrights <COPYRIGHT>
+   About <about>
+   语言/Languages <languages>
+   Guide Downloads <https://readthedocs.com/projects/optiga/downloads/>
 
 
 
