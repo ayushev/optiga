@@ -5,6 +5,7 @@ Description
 -----------------
 
 .. figure:: ../../../_static/optiga_trust_m_uson10.png 
+    :width: 300px
     :align: center
     :alt: USON10 package for Trust M rev.1
     :figclass: align-center
