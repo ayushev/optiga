@@ -10,23 +10,25 @@ This isn't an official source of information, but rather a playground. For offic
   * **OPTIGA™ Trust X**
   
     * `About <en/trust_x/about/index.html>`_
-    * `Get Started <trust_x/get_started.rst>`_
-    * `Examples <trust_x/examples.rst>`_
-    * `Documentation (PDF) <trust_x/documentation_pdf.rst>`_
-    * `Crypt API <trust_x/crypt_api.rst>`_
-    * `Util API <trust_x/util_api.rst>`_
+    * `Get Started <en/trust_x/get_started.rst>`_
+    * `Examples <en/trust_x/examples.rst>`_
+    * `Documentation (PDF) <en/trust_x/documentation_pdf.rst>`_
+    * `Crypt API <en/trust_x/crypt_api.rst>`_
+    * `Util API <en/trust_x/util_api.rst>`_
   
   * **OPTIGA™ Trust M rev.1**
     
-    * `About <trust_m/about.rst>`_
-    * `Get Started <trust_m/get_started.rst>`_
-    * `Examples <trust_m/examples.rst>`_
-    * `Documentation (PDF) <trust_m/documentation_pdf.rst>`_
-    * `Crypt API <trust_m/crypt_api.rst>`_
-    * `Util API <trust_m/util_api.rst>`_
+    * `About <en/trust_m/about/indexrst>`_
+    * `Get Started <en/trust_m/get_started.rst>`_
+    * `Examples <en/trust_m/examples.rst>`_
+    * `Documentation (PDF) <en/trust_m/documentation_pdf.rst>`_
+    * `Crypt API <en/trust_m/crypt_api.rst>`_
+    * `Util API <en/trust_m/util_api.rst>`_
 
 * **OPTIGA™ TPM**
-
+    
+    * `About <en/tpm/about/indexrst>`_
+    
 .. toctree::
    :hidden:
 
